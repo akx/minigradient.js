@@ -1,0 +1,22 @@
+{
+  "name": "minigradient",
+  "version": "0.0.1",
+  "description": "Mini-library for gradient interpolation",
+  "main": "minigradient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akx/minigradient.js.git"
+  },
+  "keywords": [
+    "gradient",
+    "interpolation"
+  ],
+  "author": "@akx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akx/minigradient.js/issues"
+  }
+}
